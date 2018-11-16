@@ -1,0 +1,1 @@
+/usr/bin/cinnamon-screensaver-command --lock && sudo /usr/sbin/pm-suspend
